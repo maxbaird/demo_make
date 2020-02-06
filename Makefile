@@ -1,6 +1,6 @@
-PROJECT			= project.out
-CC								= g++
-CCFLAGS			=	-c -Wall -Werror -Wextra
+PROJECT       = project.out
+CC            = g++
+CCFLAGS       = -c -Wall -Werror -Wextra
 
 .PHONY : all clean
 
